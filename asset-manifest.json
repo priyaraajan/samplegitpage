@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/samplegitpage/static/css/main.b100e6da.chunk.css",
+    "main.js": "/samplegitpage/static/js/main.e1a3ca8f.chunk.js",
+    "main.js.map": "/samplegitpage/static/js/main.e1a3ca8f.chunk.js.map",
+    "runtime-main.js": "/samplegitpage/static/js/runtime-main.aba57b82.js",
+    "runtime-main.js.map": "/samplegitpage/static/js/runtime-main.aba57b82.js.map",
+    "static/js/2.07135f52.chunk.js": "/samplegitpage/static/js/2.07135f52.chunk.js",
+    "static/js/2.07135f52.chunk.js.map": "/samplegitpage/static/js/2.07135f52.chunk.js.map",
+    "index.html": "/samplegitpage/index.html",
+    "precache-manifest.532a70507b385e6da1b4f402ce5bb0af.js": "/samplegitpage/precache-manifest.532a70507b385e6da1b4f402ce5bb0af.js",
+    "service-worker.js": "/samplegitpage/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/samplegitpage/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/samplegitpage/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aba57b82.js",
+    "static/js/2.07135f52.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.e1a3ca8f.chunk.js"
+  ]
+}
